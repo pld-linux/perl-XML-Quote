@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	XML
-%define	pnam	Quote
+%define		pdir	XML
+%define		pnam	Quote
 Summary:	XML::Quote - functions to quote/dequote strings in "XML"-way
 Summary(pl):	XML::Quote - funkcje do cytowania ³añcuchów w sposób "XML-owy"
 Name:		perl-XML-Quote
