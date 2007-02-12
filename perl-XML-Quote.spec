@@ -6,7 +6,7 @@
 %define		pdir	XML
 %define		pnam	Quote
 Summary:	XML::Quote - functions to quote/dequote strings in "XML"-way
-Summary(pl):	XML::Quote - funkcje do cytowania ³añcuchów w sposób "XML-owy"
+Summary(pl.UTF-8):   XML::Quote - funkcje do cytowania Å‚aÅ„cuchÃ³w w sposÃ³b "XML-owy"
 Name:		perl-XML-Quote
 Version:	1.02
 Release:	1
@@ -26,13 +26,13 @@ All functions are written in XS and are very fast; they correctly
 process UTF-8, tied, overloaded variables and all the rest of Perl
 "magic".
 
-%description -l pl
-Ten modu³ udostêpnia funkcje do cytowania ³añcuchów w sposób
+%description -l pl.UTF-8
+Ten moduÅ‚ udostÄ™pnia funkcje do cytowania Å‚aÅ„cuchÃ³w w sposÃ³b
 "XML-owy".
 
-Wszystkie funkcje s± napisane w XS i s± bardzo szybkie. Poprawnie
-przetwarzaj± UTF-8, zmienne zwi±zane i przeci±¿one, a tak¿e ca³±
-resztê perlowej "magii".
+Wszystkie funkcje sÄ… napisane w XS i sÄ… bardzo szybkie. Poprawnie
+przetwarzajÄ… UTF-8, zmienne zwiÄ…zane i przeciÄ…Å¼one, a takÅ¼e caÅ‚Ä…
+resztÄ™ perlowej "magii".
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
