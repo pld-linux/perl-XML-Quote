@@ -6,7 +6,7 @@
 %define		pdir	XML
 %define		pnam	Quote
 Summary:	XML::Quote - functions to quote/dequote strings in "XML"-way
-Summary(pl.UTF-8):   XML::Quote - funkcje do cytowania łańcuchów w sposób "XML-owy"
+Summary(pl.UTF-8):	XML::Quote - funkcje do cytowania łańcuchów w sposób "XML-owy"
 Name:		perl-XML-Quote
 Version:	1.02
 Release:	1
