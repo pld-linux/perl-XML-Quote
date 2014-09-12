@@ -61,7 +61,6 @@ rm -rf $RPM_BUILD_ROOT
 %doc Changes README
 %{perl_vendorarch}/XML/Quote.pm
 %dir %{perl_vendorarch}/auto/XML/Quote
-%{perl_vendorarch}/auto/XML/Quote/Quote.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/XML/Quote/Quote.so
 %{perl_vendorarch}/auto/XML/Quote/autosplit.ix
 %{_mandir}/man3/*
