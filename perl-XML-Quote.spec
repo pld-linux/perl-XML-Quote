@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	XML
 %define		pnam	Quote
 Summary:	XML::Quote - functions to quote/dequote strings in "XML"-way
