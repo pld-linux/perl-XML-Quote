@@ -8,7 +8,7 @@ Summary:	XML::Quote - functions to quote/dequote strings in "XML"-way
 Summary(pl.UTF-8):	XML::Quote - funkcje do cytowania łańcuchów w sposób "XML-owy"
 Name:		perl-XML-Quote
 Version:	1.02
-Release:	17
+Release:	18
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
